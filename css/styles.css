@@ -281,6 +281,7 @@ form table {
 }
 
 .form_food {
+	border-collapse: collapse;
 	width: 290px;
 	border: 1px solid #a9a9a9;
 }
@@ -291,6 +292,7 @@ form table {
 }
 
 .form_food td {
+	border: 1px solid #a9a9a9;
 	width: 145px;
 	padding: 4px 8px;
 }
